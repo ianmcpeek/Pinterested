@@ -15,6 +15,7 @@ Give examples
 ```
 
 ### Installing
+Go to http://installrails.com/steps/choose_os and install rails on your system
 
 A step by step series of examples that tell you have to get a development env running
 
